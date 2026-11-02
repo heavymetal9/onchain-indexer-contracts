@@ -1,0 +1,1 @@
+- [2026-11-02 03:43 UTC] Subgraph Indexed | Block Lag: 2 blocks
